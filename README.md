@@ -1,6 +1,8 @@
 # DFA
 
-**TODO: Add description**
+Implements a deterministic formal autoamta in Elixir
+
+Just for academic porpouses
 
 ## Installation
 

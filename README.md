@@ -4,6 +4,10 @@ Implements a deterministic formal autoamta in Elixir
 
 Just for academic porpouses
 
+# Gráfico do atomata
+![image](https://github.com/user-attachments/assets/5869afaa-f890-4861-8d08-a6a3dadf0cb2)
+
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
